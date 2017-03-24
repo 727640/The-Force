@@ -1,4 +1,9 @@
 h1{
       font-size:80px;
       color:purple;
+      font-style:italic;
+}
+#anakin{
+  -webkit-filter: grayscale(50%); /* Safari 6.0 - 9.0 */
+   filter: grayscale(50%);
 }
